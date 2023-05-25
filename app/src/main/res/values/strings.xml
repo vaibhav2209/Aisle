@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aisle</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_nphone_number">Enter Your\nPhone Number</string>
+    <string name="_91">+91</string>
+    <string name="_continue">Continue</string>
+    <string name="enter_the_notp">Enter The\nOTP</string>
+    <string name="enter_valid_phone_number">Enter a valid phone number</string>
+    <string name="txt_check_your_connection">Please check your network and try again.</string>
+    <string name="no_result">No Result</string>
+    <string name="otp_atleast_digits">OTP should be at least 4 digits.</string>
+    <string name="notes">Notes</string>
+    <string name="personal_message_to">Personal messages to you</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="premium_members_can_view_all_their_likes_at_once">Premium members can view all their likes at once</string>
+    <string name="upgrade">Upgrade</string>
+</resources>
